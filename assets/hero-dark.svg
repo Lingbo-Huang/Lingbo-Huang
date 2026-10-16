@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Lingbo-Huang — Make ideas work.</title>
+  <desc id="desc">Go, developer tools and AI agents. A diagram connects requests, tools and systems.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" stroke="#203C57" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="22" fill="#11253D"/>
+  <rect x="690" y="28" width="482" height="324" rx="18" fill="url(#grid)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="58" cy="54" r="6" fill="#8BB7FF"/>
+    <text x="77" y="61" fill="#F0F6FF" font-size="23" font-weight="600">Lingbo-Huang</text>
+    <text x="50" y="171" fill="#F0F6FF" font-size="79" font-weight="650" letter-spacing="-3.8">Make ideas</text>
+    <text x="50" y="254" fill="#F0F6FF" font-size="79" font-weight="650" letter-spacing="-3.8">work.</text>
+    <text x="54" y="321" fill="#A7BBD6" font-size="21">Go, developer tools &amp; AI agents.</text>
+
+    <path d="M 775 116 H 848 Q 866 116 866 134 V 177 Q 866 195 884 195 H 966" stroke="#355778" stroke-width="2"/>
+    <path d="M 1020 215 V 263 Q 1020 281 1002 281 H 863" stroke="#355778" stroke-width="2"/>
+    <path d="M 777 263 V 222 Q 777 204 795 204 H 848" stroke="#355778" stroke-width="2"/>
+    <circle cx="866" cy="164" r="5" fill="#11253D" stroke="#8BB7FF" stroke-width="2"/>
+    <circle cx="933" cy="281" r="5" fill="#11253D" stroke="#7CCBD3" stroke-width="2"/>
+
+    <rect x="712" y="78" width="136" height="77" rx="13" fill="#1A3451" stroke="#355778"/>
+    <path d="m 736 108 -8 8 8 8 m 25 -16 8 8 -8 8 m -10 -20 -5 24" stroke="#8BB7FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="805" y="123" fill="#F0F6FF" font-size="18" text-anchor="middle">code</text>
+
+    <rect x="902" y="153" width="210" height="83" rx="14" fill="#8BB7FF"/>
+    <rect x="923" y="177" width="34" height="34" rx="8" stroke="#11253D" stroke-width="2"/>
+    <path d="M 932 187 H 948 M 932 194 H 944 M 932 201 H 940" stroke="#11253D" stroke-width="2" stroke-linecap="round"/>
+    <text x="974" y="203" fill="#11253D" font-size="24" font-weight="600">tools</text>
+    <circle cx="1090" cy="174" r="4" fill="#11253D"/>
+
+    <rect x="714" y="247" width="165" height="71" rx="13" fill="#1A3451" stroke="#355778"/>
+    <ellipse cx="741" cy="271" rx="12" ry="4" stroke="#7CCBD3" stroke-width="1.8"/>
+    <path d="M 729 271 V 291 C 729 296 753 296 753 291 V 271 M 729 281 C 729 286 753 286 753 281" stroke="#7CCBD3" stroke-width="1.8"/>
+    <text x="765" y="289" fill="#F0F6FF" font-size="18">systems</text>
+    <path d="M 1065 93 H 1093 M 1079 79 V 107" stroke="#355778" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="942" cy="77" r="4" fill="#7CCBD3"/>
+    <circle cx="1114" cy="290" r="3" fill="#8BB7FF"/>
+  </g>
+</svg>
