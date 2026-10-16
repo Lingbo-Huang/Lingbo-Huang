@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="740" viewBox="0 0 600 740" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Lingbo-Huang · GitHub activity</title>
+  <desc id="desc">GitHub contribution activity for Lingbo-Huang. 13 weekly totals: 13, 54, 17, 3, 6, 0, 19, 5, 18, 4, 0, 17, 9. 11 active weeks out of 13. Last 90 complete UTC days: 162 contributions; 10 public commit contributions, 8 public pull requests opened, and 0 public issues opened. The total includes shared private contribution counts. Data through 2026-10-15, updated 2026-10-16 UTC.</desc>
+  <rect x="0.5" y="0.5" width="599" height="739" rx="22" fill="#F3F7FC" stroke="#D5E2F2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="33" cy="34" r="5" fill="#167A85"/>
+    <text x="48" y="40" fill="#526D8B" font-size="18" font-weight="600">Building, consistently</text>
+    <text x="28" y="85" fill="#183350" font-size="36" font-weight="650">GitHub activity</text>
+    <text x="28" y="117" fill="#526D8B" font-size="18">17 Jul — 15 Oct 2026 · 13 weeks</text>
+    <path d="M28 139H572" stroke="#D5E2F2"/>
+    <text x="28" y="174" fill="#526D8B" font-size="18" font-weight="600">Weekly contributions</text>
+<path d="M58 359H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
+<text x="46" y="364" fill="#526D8B" font-size="16" text-anchor="end">0</text>
+<path d="M58 287.5H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
+<text x="46" y="292.5" fill="#526D8B" font-size="16" text-anchor="end">30</text>
+<path d="M58 216H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
+<text x="46" y="221" fill="#526D8B" font-size="16" text-anchor="end">60</text>
+<rect x="62" y="328.02" width="23" height="30.98" rx="4" fill="#167A85"><title>2026-07-17: 13 contributions in 7 days</title></rect>
+<text x="73.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">17 Jul</text>
+<rect x="101" y="230.30" width="23" height="128.70" rx="4" fill="#167A85"><title>2026-07-24: 54 contributions in 7 days</title></rect>
+<rect x="140" y="318.48" width="23" height="40.52" rx="4" fill="#167A85"><title>2026-07-31: 17 contributions in 7 days</title></rect>
+<rect x="179" y="351.85" width="23" height="7.15" rx="4" fill="#167A85"><title>2026-08-07: 3 contributions in 7 days</title></rect>
+<rect x="218" y="344.70" width="23" height="14.30" rx="4" fill="#167A85"><title>2026-08-14: 6 contributions in 7 days</title></rect>
+<text x="229.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">14 Aug</text>
+<path d="M257 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-08-21: 0 contributions in 7 days</title></path>
+<rect x="296" y="313.72" width="23" height="45.28" rx="4" fill="#167A85"><title>2026-08-28: 19 contributions in 7 days</title></rect>
+<rect x="335" y="347.08" width="23" height="11.92" rx="4" fill="#167A85"><title>2026-09-04: 5 contributions in 7 days</title></rect>
+<rect x="374" y="316.10" width="23" height="42.90" rx="4" fill="#167A85"><title>2026-09-11: 18 contributions in 7 days</title></rect>
+<text x="385.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">11 Sep</text>
+<rect x="413" y="349.47" width="23" height="9.53" rx="4" fill="#167A85"><title>2026-09-18: 4 contributions in 7 days</title></rect>
+<path d="M452 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-09-25: 0 contributions in 7 days</title></path>
+<rect x="491" y="318.48" width="23" height="40.52" rx="4" fill="#167A85"><title>2026-10-02: 17 contributions in 7 days</title></rect>
+<rect x="530" y="337.55" width="23" height="21.45" rx="4" fill="#275DD7"><title>2026-10-09: 9 contributions in 7 days</title></rect>
+<text x="541.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">09 Oct</text>
+<path d="M28 415H572" stroke="#D5E2F2"/>
+    <text x="28" y="480" fill="#183350" font-size="48" font-weight="650">162</text>
+    <text x="28" y="510" fill="#526D8B" font-size="19">contributions · 90 days</text>
+    <text x="331" y="480" fill="#183350" font-size="48" font-weight="650">11</text>
+    <text x="331" y="510" fill="#526D8B" font-size="19">active weeks · 13 weeks</text>
+    <rect x="28" y="539" width="544" height="112" rx="14" fill="#FFFFFF" stroke="#D5E2F2"/>
+    <text x="48" y="567" fill="#526D8B" font-size="17">Public contributions · 90 days</text>
+    <text x="48" y="606" fill="#275DD7" font-size="30" font-weight="650">10</text>
+    <text x="93" y="606" fill="#526D8B" font-size="18">commits</text>
+    <text x="242" y="606" fill="#275DD7" font-size="30" font-weight="650">8</text>
+    <text x="280" y="606" fill="#526D8B" font-size="18">PRs</text>
+    <text x="406" y="606" fill="#275DD7" font-size="30" font-weight="650">0</text>
+    <text x="444" y="606" fill="#526D8B" font-size="18">issues</text>
+    <text x="28" y="684" fill="#526D8B" font-size="17">GitHub GraphQL · Includes shared private counts.</text>
+    <text x="28" y="714" fill="#526D8B" font-size="16">Updated 2026-10-16 UTC · Complete days · Daily refresh</text>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+name: Update profile activity
+
+on:
+  schedule:
+    # 09:17 Asia/Shanghai, once per day (GitHub schedules may run later).
+    - cron: '17 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_activity.py
+      - .github/workflows/update-profile.yml
+
+permissions: {}
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Lingbo-Huang/Lingbo-Huang' && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        # actions/checkout v7.0.1, verified against its official release.
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+
+      - name: Generate activity cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py
+
+      - name: Commit changed cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GIT_TERMINAL_PROMPT: '0'
+        run: |
+          set -eu
+          git add -- assets/activity-light.svg assets/activity-dark.svg assets/activity-mobile-light.svg assets/activity-mobile-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh profile activity [skip ci]'
+          # Credentials stay in the step environment, never in git config or
+          # a repository file. The helper only passes them to git's prompt.
+          cat > "$RUNNER_TEMP/profile-askpass.sh" <<'SH'
+          #!/bin/sh
+          case "$1" in
+            *Username*) printf '%s\n' 'x-access-token' ;;
+            *Password*) printf '%s\n' "$GITHUB_TOKEN" ;;
+          esac
+          SH
+          chmod 700 "$RUNNER_TEMP/profile-askpass.sh"
+          GIT_ASKPASS="$RUNNER_TEMP/profile-askpass.sh" git push origin "HEAD:$GITHUB_REF_NAME"
+          rm -f "$RUNNER_TEMP/profile-askpass.sh"
