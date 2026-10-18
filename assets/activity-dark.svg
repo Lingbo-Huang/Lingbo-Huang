@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="432" viewBox="0 0 1200 432" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Lingbo-Huang · GitHub activity</title>
-  <desc id="desc">GitHub contribution activity for Lingbo-Huang. 13 weekly totals: 12, 64, 5, 3, 6, 0, 21, 5, 16, 4, 0, 21, 53. 11 active weeks out of 13. Last 90 complete UTC days: 210 contributions; 13 public commit contributions, 8 public pull requests opened, and 0 public issues opened. The total includes shared private contribution counts. Data through 2026-10-16, updated 2026-10-17 UTC.</desc>
+  <desc id="desc">GitHub contribution activity for Lingbo-Huang. 13 weekly totals: 12, 66, 3, 3, 6, 0, 23, 3, 16, 4, 0, 21, 100. 11 active weeks out of 13. Last 90 complete UTC days: 256 contributions; 13 public commit contributions, 8 public pull requests opened, and 0 public issues opened. The total includes shared private contribution counts. Data through 2026-10-17, updated 2026-10-18 UTC.</desc>
   <rect x="0.5" y="0.5" width="1199" height="431" rx="22" fill="#101B2C" stroke="#2A3D56"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <circle cx="39" cy="40" r="5" fill="#71D0CC"/>
     <text x="53" y="46" fill="#A2B7D1" font-size="14" font-weight="600">Building, consistently</text>
     <text x="34" y="89" fill="#E4EEFC" font-size="30" font-weight="650" letter-spacing="-0.7">GitHub activity</text>
-    <text x="1166" y="45" fill="#A2B7D1" font-size="13" text-anchor="end">Updated 2026-10-17 UTC</text>
-    <text x="1166" y="83" fill="#A2B7D1" font-size="14" text-anchor="end">18 Jul — 16 Oct 2026 · 13 weeks</text>
+    <text x="1166" y="45" fill="#A2B7D1" font-size="13" text-anchor="end">Updated 2026-10-18 UTC</text>
+    <text x="1166" y="83" fill="#A2B7D1" font-size="14" text-anchor="end">19 Jul — 17 Oct 2026 · 13 weeks</text>
     <path d="M34 110H1166" stroke="#2A3D56"/>
     <text x="34" y="141" fill="#A2B7D1" font-size="13" font-weight="600">Weekly contributions</text>
 <path d="M62 318H646" stroke="#263950" stroke-dasharray="3 5"/>
 <text x="48" y="322" fill="#A2B7D1" font-size="11" text-anchor="end">0</text>
 <path d="M62 247.5H646" stroke="#263950" stroke-dasharray="3 5"/>
-<text x="48" y="251.5" fill="#A2B7D1" font-size="11" text-anchor="end">35</text>
+<text x="48" y="251.5" fill="#A2B7D1" font-size="11" text-anchor="end">50</text>
 <path d="M62 177H646" stroke="#263950" stroke-dasharray="3 5"/>
-<text x="48" y="181" fill="#A2B7D1" font-size="11" text-anchor="end">70</text>
-<rect x="66" y="293.83" width="24" height="24.17" rx="4" fill="#71D0CC"><title>2026-07-18 to 2026-07-24: 12 contributions</title></rect>
-<text x="78" y="284.83" fill="#A2B7D1" font-size="11" text-anchor="middle">12</text>
-<text x="78" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">18 Jul</text>
-<rect x="111" y="189.09" width="24" height="128.91" rx="4" fill="#71D0CC"><title>2026-07-25 to 2026-07-31: 64 contributions</title></rect>
-<text x="123" y="180.09" fill="#A2B7D1" font-size="11" text-anchor="middle">64</text>
-<rect x="156" y="307.93" width="24" height="10.07" rx="4" fill="#71D0CC"><title>2026-08-01 to 2026-08-07: 5 contributions</title></rect>
-<text x="168" y="298.93" fill="#A2B7D1" font-size="11" text-anchor="middle">5</text>
-<rect x="201" y="311.96" width="24" height="6.04" rx="4" fill="#71D0CC"><title>2026-08-08 to 2026-08-14: 3 contributions</title></rect>
-<text x="213" y="302.96" fill="#A2B7D1" font-size="11" text-anchor="middle">3</text>
-<rect x="246" y="305.91" width="24" height="12.09" rx="4" fill="#71D0CC"><title>2026-08-15 to 2026-08-21: 6 contributions</title></rect>
-<text x="258" y="296.91" fill="#A2B7D1" font-size="11" text-anchor="middle">6</text>
-<text x="258" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">15 Aug</text>
-<path d="M291 318h24" stroke="#2A3D56" stroke-width="2"><title>2026-08-22 to 2026-08-28: 0 contributions</title></path>
-<rect x="336" y="275.70" width="24" height="42.30" rx="4" fill="#71D0CC"><title>2026-08-29 to 2026-09-04: 21 contributions</title></rect>
-<text x="348" y="266.70" fill="#A2B7D1" font-size="11" text-anchor="middle">21</text>
-<rect x="381" y="307.93" width="24" height="10.07" rx="4" fill="#71D0CC"><title>2026-09-05 to 2026-09-11: 5 contributions</title></rect>
-<text x="393" y="298.93" fill="#A2B7D1" font-size="11" text-anchor="middle">5</text>
-<rect x="426" y="285.77" width="24" height="32.23" rx="4" fill="#71D0CC"><title>2026-09-12 to 2026-09-18: 16 contributions</title></rect>
-<text x="438" y="276.77" fill="#A2B7D1" font-size="11" text-anchor="middle">16</text>
-<text x="438" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">12 Sep</text>
-<rect x="471" y="309.94" width="24" height="8.06" rx="4" fill="#71D0CC"><title>2026-09-19 to 2026-09-25: 4 contributions</title></rect>
-<text x="483" y="300.94" fill="#A2B7D1" font-size="11" text-anchor="middle">4</text>
-<path d="M516 318h24" stroke="#2A3D56" stroke-width="2"><title>2026-09-26 to 2026-10-02: 0 contributions</title></path>
-<rect x="561" y="275.70" width="24" height="42.30" rx="4" fill="#71D0CC"><title>2026-10-03 to 2026-10-09: 21 contributions</title></rect>
-<text x="573" y="266.70" fill="#A2B7D1" font-size="11" text-anchor="middle">21</text>
-<rect x="606" y="211.24" width="24" height="106.76" rx="4" fill="#83ABFF"><title>2026-10-10 to 2026-10-16: 53 contributions</title></rect>
-<text x="618" y="202.24" fill="#A2B7D1" font-size="11" text-anchor="middle">53</text>
-<text x="618" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">10 Oct</text>
+<text x="48" y="181" fill="#A2B7D1" font-size="11" text-anchor="end">100</text>
+<rect x="66" y="301.08" width="24" height="16.92" rx="4" fill="#71D0CC"><title>2026-07-19 to 2026-07-25: 12 contributions</title></rect>
+<text x="78" y="292.08" fill="#A2B7D1" font-size="11" text-anchor="middle">12</text>
+<text x="78" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">19 Jul</text>
+<rect x="111" y="224.94" width="24" height="93.06" rx="4" fill="#71D0CC"><title>2026-07-26 to 2026-08-01: 66 contributions</title></rect>
+<text x="123" y="215.94" fill="#A2B7D1" font-size="11" text-anchor="middle">66</text>
+<rect x="156" y="313.77" width="24" height="4.23" rx="4" fill="#71D0CC"><title>2026-08-02 to 2026-08-08: 3 contributions</title></rect>
+<text x="168" y="304.77" fill="#A2B7D1" font-size="11" text-anchor="middle">3</text>
+<rect x="201" y="313.77" width="24" height="4.23" rx="4" fill="#71D0CC"><title>2026-08-09 to 2026-08-15: 3 contributions</title></rect>
+<text x="213" y="304.77" fill="#A2B7D1" font-size="11" text-anchor="middle">3</text>
+<rect x="246" y="309.54" width="24" height="8.46" rx="4" fill="#71D0CC"><title>2026-08-16 to 2026-08-22: 6 contributions</title></rect>
+<text x="258" y="300.54" fill="#A2B7D1" font-size="11" text-anchor="middle">6</text>
+<text x="258" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">16 Aug</text>
+<path d="M291 318h24" stroke="#2A3D56" stroke-width="2"><title>2026-08-23 to 2026-08-29: 0 contributions</title></path>
+<rect x="336" y="285.57" width="24" height="32.43" rx="4" fill="#71D0CC"><title>2026-08-30 to 2026-09-05: 23 contributions</title></rect>
+<text x="348" y="276.57" fill="#A2B7D1" font-size="11" text-anchor="middle">23</text>
+<rect x="381" y="313.77" width="24" height="4.23" rx="4" fill="#71D0CC"><title>2026-09-06 to 2026-09-12: 3 contributions</title></rect>
+<text x="393" y="304.77" fill="#A2B7D1" font-size="11" text-anchor="middle">3</text>
+<rect x="426" y="295.44" width="24" height="22.56" rx="4" fill="#71D0CC"><title>2026-09-13 to 2026-09-19: 16 contributions</title></rect>
+<text x="438" y="286.44" fill="#A2B7D1" font-size="11" text-anchor="middle">16</text>
+<text x="438" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">13 Sep</text>
+<rect x="471" y="312.36" width="24" height="5.64" rx="4" fill="#71D0CC"><title>2026-09-20 to 2026-09-26: 4 contributions</title></rect>
+<text x="483" y="303.36" fill="#A2B7D1" font-size="11" text-anchor="middle">4</text>
+<path d="M516 318h24" stroke="#2A3D56" stroke-width="2"><title>2026-09-27 to 2026-10-03: 0 contributions</title></path>
+<rect x="561" y="288.39" width="24" height="29.61" rx="4" fill="#71D0CC"><title>2026-10-04 to 2026-10-10: 21 contributions</title></rect>
+<text x="573" y="279.39" fill="#A2B7D1" font-size="11" text-anchor="middle">21</text>
+<rect x="606" y="177.00" width="24" height="141.00" rx="4" fill="#83ABFF"><title>2026-10-11 to 2026-10-17: 100 contributions</title></rect>
+<text x="618" y="168.00" fill="#A2B7D1" font-size="11" text-anchor="middle">100</text>
+<text x="618" y="344" fill="#A2B7D1" font-size="12" text-anchor="middle">11 Oct</text>
 <path d="M685 133V351" stroke="#2A3D56"/>
     <text x="720" y="141" fill="#A2B7D1" font-size="13" font-weight="600">Activity snapshot</text>
-    <text x="720" y="205" fill="#E4EEFC" font-size="48" font-weight="650" letter-spacing="-1.5">210</text>
+    <text x="720" y="205" fill="#E4EEFC" font-size="48" font-weight="650" letter-spacing="-1.5">256</text>
     <text x="720" y="230" fill="#A2B7D1" font-size="14">contributions · 90 days</text>
     <text x="971" y="205" fill="#E4EEFC" font-size="48" font-weight="650" letter-spacing="-1.5">11</text>
     <text x="971" y="230" fill="#A2B7D1" font-size="14">active weeks · 13 weeks</text>
