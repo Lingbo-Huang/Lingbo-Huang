@@ -1,51 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="740" viewBox="0 0 600 740" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Lingbo-Huang · GitHub activity</title>
-  <desc id="desc">GitHub contribution activity for Lingbo-Huang. 13 weekly totals: 66, 3, 3, 6, 0, 23, 3, 16, 4, 0, 21, 100, 56. 11 active weeks out of 13. Last 90 complete UTC days: 301 contributions; 13 public commit contributions, 8 public pull requests opened, and 0 public issues opened. The total includes shared private contribution counts. Data through 2026-10-24, updated 2026-10-25 UTC.</desc>
+  <desc id="desc">GitHub contribution activity for Lingbo-Huang. 13 weekly totals: 66, 3, 7, 2, 0, 23, 16, 3, 4, 0, 21, 124, 32. 11 active weeks out of 13. Last 90 complete UTC days: 290 contributions; 12 public commit contributions, 7 public pull requests opened, and 0 public issues opened. The total includes shared private contribution counts. Data through 2026-10-25, updated 2026-10-26 UTC.</desc>
   <rect x="0.5" y="0.5" width="599" height="739" rx="22" fill="#F3F7FC" stroke="#D5E2F2"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <circle cx="33" cy="34" r="5" fill="#167A85"/>
     <text x="48" y="40" fill="#526D8B" font-size="18" font-weight="600">Building, consistently</text>
     <text x="28" y="85" fill="#183350" font-size="36" font-weight="650">GitHub activity</text>
-    <text x="28" y="117" fill="#526D8B" font-size="18">26 Jul — 24 Oct 2026 · 13 weeks</text>
+    <text x="28" y="117" fill="#526D8B" font-size="18">27 Jul — 25 Oct 2026 · 13 weeks</text>
     <path d="M28 139H572" stroke="#D5E2F2"/>
     <text x="28" y="174" fill="#526D8B" font-size="18" font-weight="600">Weekly contributions</text>
 <path d="M58 359H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
 <text x="46" y="364" fill="#526D8B" font-size="16" text-anchor="end">0</text>
 <path d="M58 287.5H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
-<text x="46" y="292.5" fill="#526D8B" font-size="16" text-anchor="end">50</text>
+<text x="46" y="292.5" fill="#526D8B" font-size="16" text-anchor="end">65</text>
 <path d="M58 216H562" stroke="#E2EBF5" stroke-dasharray="3 5"/>
-<text x="46" y="221" fill="#526D8B" font-size="16" text-anchor="end">100</text>
-<rect x="62" y="264.62" width="23" height="94.38" rx="4" fill="#167A85"><title>2026-07-26: 66 contributions in 7 days</title></rect>
-<text x="73.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">26 Jul</text>
-<rect x="101" y="354.71" width="23" height="4.29" rx="4" fill="#167A85"><title>2026-08-02: 3 contributions in 7 days</title></rect>
-<rect x="140" y="354.71" width="23" height="4.29" rx="4" fill="#167A85"><title>2026-08-09: 3 contributions in 7 days</title></rect>
-<rect x="179" y="350.42" width="23" height="8.58" rx="4" fill="#167A85"><title>2026-08-16: 6 contributions in 7 days</title></rect>
-<path d="M218 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-08-23: 0 contributions in 7 days</title></path>
-<text x="229.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">23 Aug</text>
-<rect x="257" y="326.11" width="23" height="32.89" rx="4" fill="#167A85"><title>2026-08-30: 23 contributions in 7 days</title></rect>
-<rect x="296" y="354.71" width="23" height="4.29" rx="4" fill="#167A85"><title>2026-09-06: 3 contributions in 7 days</title></rect>
-<rect x="335" y="336.12" width="23" height="22.88" rx="4" fill="#167A85"><title>2026-09-13: 16 contributions in 7 days</title></rect>
-<rect x="374" y="353.28" width="23" height="5.72" rx="4" fill="#167A85"><title>2026-09-20: 4 contributions in 7 days</title></rect>
-<text x="385.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">20 Sep</text>
-<path d="M413 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-09-27: 0 contributions in 7 days</title></path>
-<rect x="452" y="328.97" width="23" height="30.03" rx="4" fill="#167A85"><title>2026-10-04: 21 contributions in 7 days</title></rect>
-<rect x="491" y="216.00" width="23" height="143.00" rx="4" fill="#167A85"><title>2026-10-11: 100 contributions in 7 days</title></rect>
-<rect x="530" y="278.92" width="23" height="80.08" rx="4" fill="#275DD7"><title>2026-10-18: 56 contributions in 7 days</title></rect>
-<text x="541.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">18 Oct</text>
+<text x="46" y="221" fill="#526D8B" font-size="16" text-anchor="end">130</text>
+<rect x="62" y="286.40" width="23" height="72.60" rx="4" fill="#167A85"><title>2026-07-27: 66 contributions in 7 days</title></rect>
+<text x="73.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">27 Jul</text>
+<rect x="101" y="355.70" width="23" height="3.30" rx="4" fill="#167A85"><title>2026-08-03: 3 contributions in 7 days</title></rect>
+<rect x="140" y="351.30" width="23" height="7.70" rx="4" fill="#167A85"><title>2026-08-10: 7 contributions in 7 days</title></rect>
+<rect x="179" y="356.80" width="23" height="2.20" rx="4" fill="#167A85"><title>2026-08-17: 2 contributions in 7 days</title></rect>
+<path d="M218 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-08-24: 0 contributions in 7 days</title></path>
+<text x="229.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">24 Aug</text>
+<rect x="257" y="333.70" width="23" height="25.30" rx="4" fill="#167A85"><title>2026-08-31: 23 contributions in 7 days</title></rect>
+<rect x="296" y="341.40" width="23" height="17.60" rx="4" fill="#167A85"><title>2026-09-07: 16 contributions in 7 days</title></rect>
+<rect x="335" y="355.70" width="23" height="3.30" rx="4" fill="#167A85"><title>2026-09-14: 3 contributions in 7 days</title></rect>
+<rect x="374" y="354.60" width="23" height="4.40" rx="4" fill="#167A85"><title>2026-09-21: 4 contributions in 7 days</title></rect>
+<text x="385.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">21 Sep</text>
+<path d="M413 359h23" stroke="#D5E2F2" stroke-width="2"><title>2026-09-28: 0 contributions in 7 days</title></path>
+<rect x="452" y="335.90" width="23" height="23.10" rx="4" fill="#167A85"><title>2026-10-05: 21 contributions in 7 days</title></rect>
+<rect x="491" y="222.60" width="23" height="136.40" rx="4" fill="#167A85"><title>2026-10-12: 124 contributions in 7 days</title></rect>
+<rect x="530" y="323.80" width="23" height="35.20" rx="4" fill="#275DD7"><title>2026-10-19: 32 contributions in 7 days</title></rect>
+<text x="541.5" y="389" fill="#526D8B" font-size="17" text-anchor="middle">19 Oct</text>
 <path d="M28 415H572" stroke="#D5E2F2"/>
-    <text x="28" y="480" fill="#183350" font-size="48" font-weight="650">301</text>
+    <text x="28" y="480" fill="#183350" font-size="48" font-weight="650">290</text>
     <text x="28" y="510" fill="#526D8B" font-size="19">contributions · 90 days</text>
     <text x="331" y="480" fill="#183350" font-size="48" font-weight="650">11</text>
     <text x="331" y="510" fill="#526D8B" font-size="19">active weeks · 13 weeks</text>
     <rect x="28" y="539" width="544" height="112" rx="14" fill="#FFFFFF" stroke="#D5E2F2"/>
     <text x="48" y="567" fill="#526D8B" font-size="17">Public contributions · 90 days</text>
-    <text x="48" y="606" fill="#275DD7" font-size="30" font-weight="650">13</text>
+    <text x="48" y="606" fill="#275DD7" font-size="30" font-weight="650">12</text>
     <text x="93" y="606" fill="#526D8B" font-size="18">commits</text>
-    <text x="242" y="606" fill="#275DD7" font-size="30" font-weight="650">8</text>
+    <text x="242" y="606" fill="#275DD7" font-size="30" font-weight="650">7</text>
     <text x="280" y="606" fill="#526D8B" font-size="18">PRs</text>
     <text x="406" y="606" fill="#275DD7" font-size="30" font-weight="650">0</text>
     <text x="444" y="606" fill="#526D8B" font-size="18">issues</text>
     <text x="28" y="684" fill="#526D8B" font-size="17">GitHub GraphQL · Includes shared private counts.</text>
-    <text x="28" y="714" fill="#526D8B" font-size="16">Updated 2026-10-25 UTC · Complete days · Daily refresh</text>
+    <text x="28" y="714" fill="#526D8B" font-size="16">Updated 2026-10-26 UTC · Complete days · Daily refresh</text>
   </g>
 </svg>
